@@ -1,0 +1,1 @@
+Directory for downloaded json, database, and other auxiliary files generated for during download and import. 
